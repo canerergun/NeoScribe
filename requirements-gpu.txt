@@ -1,0 +1,3 @@
+# Sadece NVIDIA GPU (CUDA) kullanacaksan kur
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
